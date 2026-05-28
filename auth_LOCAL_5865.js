@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function authenticate(login, password) {
 if (login === 'login' && password === 'password') {
   return 'you are logged in!';
@@ -8,6 +7,3 @@ if (login === 'login' && password === 'password') {
 
 }
 
-=======
-welcome da da
->>>>>>> hotfix/1.0.1
